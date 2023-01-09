@@ -1,18 +1,14 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Awesome Web Development Resources 
 
 This is an awesome project about Web Development resources. ⚡
-
-Resources are added frequently! ⚡
 
 Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
-
 ---
 
-From the readme file by [Marko Denic](https://markodenic.com).
+From the readme file by [Marko Denic](https://markodenic.com) and added to by [uvacoder](https://abclinks.vercel.app).
 
 ## Table of Contents
 
