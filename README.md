@@ -180,7 +180,8 @@ From the readme file by [Marko Denic](https://markodenic.com) and added to by [u
 | https://angel.co                |
 | https://www.smartremotejobs.com |
 | https://www.remotehub.com       |
-| https://remotescout.ch      |
+| https://remotescout.ch          |
+| https://web3.career/remote-jobs |
 
 [⬆ back to top](#table-of-contents)
 
